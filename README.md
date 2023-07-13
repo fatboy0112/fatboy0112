@@ -1,4 +1,4 @@
-### Hi there 👋, This is Ujjal Zaman
+### Hi there 👋, This is FatBoy.
 #### I'm passionate MERN stack web developer
 I just finished my bachelor’s degree in information technology. I have what it takes to be a great web developer, front end or back end. Seeking to become the next front end developer on any web development team that’ll have me!
 
