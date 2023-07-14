@@ -168,13 +168,6 @@ const mehedi = {
 ```
 
 ---
-
-### ☄️ Github Streaks:
-
-<p align="center">
-    <img alt="FatBoy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MehedilslamRipon&theme=tokyonight&hide_border=true"/>
-</p>
-
 ### ⚡ Github Stats:
 
 <p align="center">
