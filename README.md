@@ -172,14 +172,14 @@ const mehedi = {
 ### ☄️ Github Streaks:
 
 <p align="center">
-    <img alt="MehedilslamRipon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MehedilslamRipon&theme=tokyonight&hide_border=true"/>
+    <img alt="FatBoy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MehedilslamRipon&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### ⚡ Github Stats:
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&show_icons=true&hide_border=true&theme=tokyonight" alt="MehedilslamRipon's stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehedilslamRipon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="MehedilslamRipon's stats"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=MehedilslamRipon&show_icons=true&hide_border=true&theme=tokyonight" alt="FatBoy's stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MehedilslamRipon&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="FatBoy's stats"/>
 </p>
 
 ---
@@ -191,21 +191,3 @@ const mehedi = {
 -  Browser: Brave and Chrome
 -  Terminal: Hyper, Windows Terminal, ZSH: Oh My Zsh (PowerLevel10k)
 -  Code Editor: VSCode - The best editor out there.
-<details>
-  <summary>💻 Typeracer Scorecard:</summary>
-	<img src="https://data.typeracer.com/misc/badge?user=mehediislamripon" alt="MehedilslamRipon's typeracer Scorecard">
-	<br/>
-  	<b>Profile:</b> https://data.typeracer.com/pit/profile?user=mehediislamripon
-</details>
-<details>
-  <summary> 🎧 I'm Listening Now:</summary>
-	<a href="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ucv5mbjwn0si90mu5mgsc7qkt&cover_image=true&theme=novatorem" alt="MehedilslamRipon's Spotify status">
-</a>
-</details>
-  
-  ---
-
-<p>
-<img alt="MehedilslamRipon's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MehedilslamRipon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
